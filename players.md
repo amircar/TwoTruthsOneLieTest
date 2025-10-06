@@ -23,3 +23,16 @@ Statement 2: im so extra cute
 Statement 3: im not cute
 
 a
+
+Bologna_AC
+
+Statement 1: Buy a ACSS Membership
+
+Statement 2: Buy a Nep Soc Membeership
+
+Bologna_AC 2
+
+Statement 1: Buy a ACSS Membership
+
+Statement 2: Buy a Nep Soc Membeership
+
